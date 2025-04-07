@@ -1,5 +1,18 @@
-﻿# SlimeVR Motherboard
+﻿# SlimeVR Motherboard - Edit by Finn
 
+This is an improved version of Alec J Probst's SlimeVR motherboard, currently including a heavily edited case. For any issues or suggestions contact me on discord @ Finnfx
+
+Current progress and plans:
+
+Case - Unfinished but improved heavily
+
+AUX IMU Case - I plan to make a PCB for this, as well as edit the case to use a better design.
+
+Motherboard - I plan to heavily improve the design, as I don't like that wires are required for soldering. JPS connectors are planned for both the extensions and the battery to make this process much easier.
+
+
+
+# Alec's Description
 This is a project to make it easier to create SlimeVR trackers. This project reduces the amount of cable management needed when making SlimeVR trackers by providing a PCB that can be made for only $2. Beginner instructions on how to buy a PCB are below. Total cost should be around $55-60 for an enhanced core set excluding the cost of cases and straps.
 
 # Sections
@@ -106,6 +119,8 @@ To keep the Switch in place, it is recommended to use tape as shown below. Once 
 ![Images/Switch Solder 2.jpg](Images/Switch%20Solder%202.jpg)
 
 To add the IMU, first cut out 6 wires of around 25mm long and strip the ends of the wires as shown below.
+
+Finn's edit, I plan to make it so you can solder the IMUs to the motherboard, this isn't finished but 
 
 ![Images/IMU Wiring.jpg](Images/IMU%20Wiring.jpg)
 
