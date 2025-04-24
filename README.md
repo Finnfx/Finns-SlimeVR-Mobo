@@ -31,8 +31,3 @@ This PCB is made for use with the following parts:
  - (NOT Optional) 1N5817 Charge Diodes
 
 
-
-
-![Images/Case Assembly 5.jpg](Images/Case%20Assembly%205.jpg)
-
-
