@@ -34,8 +34,8 @@ This PCB is made for use with the following parts:
  - (Optional) 180k ohm Battery Sense Resistor
  - (NOT Optional) 1N5817 Charge Diodes
 
- Reccomended Parts:
- -2 Pin JST Connector for the batteries
- -5 Pin JST Connector for the AUX Tracker
+ Reccomended Parts if not using PCB layout:
+ - 2 Pin JST Connector for the batteries
+ - 5 Pin JST Connector for the AUX Tracker
 
 
