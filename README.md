@@ -17,7 +17,7 @@ Motherboard - I've made the PCB, still not public yet. Once I order some and tes
 - Fix case design for main tracker
 - Make case design for AUX tracker
 - Make a full build guide
-- Explain PCB layout for newbies
+- Explain PCB layout on JLPCB for newbies
 
 ## Parts and Setup
 
@@ -34,7 +34,7 @@ This PCB is made for use with the following parts:
  - (Optional) 180k ohm Battery Sense Resistor
  - (NOT Optional) 1N5817 Charge Diodes
 
- Reccomended Parts if not using PCB layout:
+ Reccomended Parts if not using PCB layout for JLPCB:
  - 2 Pin JST Connector for the batteries
  - 5 Pin JST Connector for the AUX Tracker
 
