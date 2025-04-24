@@ -12,7 +12,7 @@ AUX Tracker - I have a PCB made and finished, design will be put here soon, I st
 
 Motherboard - I've made the PCB, still not public yet. Once I order some and test them for myself I'll publically release them.
 
-#Current plans
+# Current plans
 
 - Fix case design for main tracker
 - Make case design for AUX tracker
