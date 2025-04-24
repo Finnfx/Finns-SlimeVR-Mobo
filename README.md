@@ -8,12 +8,16 @@ Current progress and plans:
 
 Case - Unfinished but improved heavily, it has an issue with one of the edges so I do not reccomend printing it yet. A threaded insert design is also made for support with any Vive-like compatible designs but won't be publically released until this 3D printing issue is fixed
 
-AUX IMU - I have a PCB made and finished, design will be put here soon, I still need to make a case for it.
+AUX Tracker - I have a PCB made and finished, design will be put here soon, I still need to make a case for it.
 
-Motherboard - I've made the PCB, still not public yet but on version 2.1. Once I order some and test them for myself I'll publically release them.
+Motherboard - I've made the PCB, still not public yet. Once I order some and test them for myself I'll publically release them.
 
+#Current plans
 
-
+- Fix case design for main tracker
+- Make case design for AUX tracker
+- Make a full build guide
+- Explain PCB layout for newbies
 
 ## Parts and Setup
 
@@ -29,5 +33,9 @@ This PCB is made for use with the following parts:
  - BMI-Style IMU (BMI160, BMI270, ICM-45686 LSM6DSR)
  - (Optional) 180k ohm Battery Sense Resistor
  - (NOT Optional) 1N5817 Charge Diodes
+
+ Reccomended Parts:
+ -2 Pin JST Connector for the batteries
+ -5 Pin JST Connector for the AUX Tracker
 
 
