@@ -1,14 +1,16 @@
 ﻿# SlimeVR Motherboard - Edit by Finn
 
+ last edited 24/04/2025
+
 This is an improved version of Alec J Probst's SlimeVR motherboard, currently including a heavily edited case. For any issues or suggestions contact me on discord @ Finnfx
 
 Current progress and plans:
 
-Case - Unfinished but improved heavily
+Case - Unfinished but improved heavily, it has an issue with one of the edges so I do not reccomend printing it yet. A threaded insert design is also made for support with any Vive-like compatible designs but won't be publically released until this 3D printing issue is fixed
 
-AUX IMU Case - I plan to make a PCB for this, as well as edit the case to use a better design.
+AUX IMU - I have a PCB made and finished, design will be put here soon, I still need to make a case for it.
 
-Motherboard - I plan to heavily improve the design, as I don't like that wires are required for soldering. JPS connectors are planned for both the extensions and the battery to make this process much easier.
+Motherboard - I've made the PCB, still not public yet but on version 2.1. Once I order some and test them for myself I'll publically release them.
 
 
 
